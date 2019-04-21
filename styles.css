@@ -3,7 +3,6 @@ body{
     background-color:#ffffff;
     font-size-adjust:0.61;
     text-indent:1cm;
-
     }
 
 header{
@@ -35,7 +34,6 @@ header{
     padding: 10px 25px;
     display: block;
     color:black;
-
 }
 
 .nav li a:hover{
@@ -58,6 +56,7 @@ article img{
     border:2px solid #95027b;
     overflow: hidden;
 }
+
 .content h1{
     margin: 20px 0 0 0;
     font-size:1.6em;
