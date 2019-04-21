@@ -1,34 +1,21 @@
 body{
-    font-family:times, arial,serif;
-    background-color:#F1FBD7;
-}
+    font-family:georgia, garamond, times, arial,serif;
+    background-color:#ffffff;
+    font-size-adjust:0.61;
+    text-indent:1cm;
+
+    }
 
 header{
-    background-color:#25A2A2;
-    color:white;
-    padding:10px;
-    margin:0;
-    overflow: hidden;
-}
-
-header img{
-    float:left;
-    width: 100px;
-    height: 100px;
-    margin-right:10px;
-}
-
-header h1{
-    padding:0;
-    margin:0;
-    font-size:2.2em;
-
-}
-
-header h2{
-    padding:0;
-    margin:0;
-    font-size:1.2em;
+    margin:auto;
+    overflow:hidden;
+    background-image: url("airobott_blog.png");
+    background-color: black;
+    width: 1500px;
+    height: 440px;
+    background-position: 310px;
+   background-repeat: no-repeat;
+    background-attachment:scroll;
 }
 
 .nav ul{
@@ -72,7 +59,7 @@ article img{
     overflow: hidden;
 }
 .content h1{
-    margin: 5px 0 0 0;
+    margin: 20px 0 0 0;
     font-size:1.6em;
     color:#ff00de;
 }
